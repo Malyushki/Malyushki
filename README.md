@@ -7,4 +7,4 @@
 <br>
 <br>
 <p><strong>ABOUT ME:<strong/><p/>
-<p><i>My name is Pavlin Malyushki. I'm from Bulgaria. I'm currently studing "Software engineering" and taking additional courses in Java develepment @SoftUni.<p></i>
+<p><i>My name is Pavlin Malyushki. I'm from Bulgaria. I'm currently studying "Software engineering" and taking additional courses in Java development @SoftUni.<p></i>
